@@ -1,0 +1,28 @@
+[global_config]
+  enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  extra_styling = False
+  handle_size = 0
+  title_font = lucy tewi 10
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      profile = None
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    audible_bell = True
+    background_darkness = 0.9
+    cursor_color = "#aaaaaa"
+    cursor_shape = underline
+    font = lucy tewi 8
+    icon_bell = False
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

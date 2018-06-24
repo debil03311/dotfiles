@@ -1,0 +1,409 @@
+sw_volume: 55
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 235
+time: 12.236000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Electronic/Aether Fountains/AF-I/Access.mp3
+1:Electronic/Aether Fountains/AF-I/Crystal Processor.mp3
+2:Electronic/Aether Fountains/AF-I/Hypercards.mp3
+3:Electronic/Aether Fountains/AF-I/CGI Dreams.mp3
+4:Electronic/Aether Fountains/AF-I/Polygon Paradise.mp3
+5:Electronic/Aether Fountains/AF-I/CDROM Serum.mp3
+6:Electronic/Anne-Eris/Sun Crown/Sleeping in a Room Filled With Soil.mp3
+7:Electronic/Anne-Eris/Sun Crown/Bones Under the Summer Sky Like Blazing Copper.mp3
+8:Electronic/Anne-Eris/Sun Crown/Absent Photographs Will Not Save Them.mp3
+9:Electronic/Anne-Eris/Sun Crown/Useless Crown Suffer in Honey Dreams.mp3
+10:Electronic/Strata Music Labs/Yesterday, one day ago/01. Running Low '98.flac
+11:Electronic/Strata Music Labs/Yesterday, one day ago/02. Programming at Sun.flac
+12:Electronic/Strata Music Labs/Yesterday, one day ago/03. Deluge '17.flac
+13:Electronic/Strata Music Labs/Yesterday, one day ago/04. Wachsmaschine.flac
+14:Electronic/Strata Music Labs/Yesterday, one day ago/05. 21st Century Scam.flac
+15:Electronic/Strata Music Labs/Yesterday, one day ago/06. Three ante meridiem.flac
+16:Electronic/Strata Music Labs/Yesterday, one day ago/07. The Chocolate Factory.flac
+17:Electronic/Strata Music Labs/Yesterday, one day ago/08. Forest Investigation.flac
+18:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/01. Running Low '98.mp3
+19:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/02. Programming at Sun.mp3
+20:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/03. Deluge '17.mp3
+21:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/04. Wachsmaschine.mp3
+22:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/05. 21st Century Scam.mp3
+23:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/06. Three ante meridiem.mp3
+24:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/07. The Chocolate Factory.mp3
+25:Electronic/Strata Music Labs/Yesterday, one day ago/MP3V0/08. Forest Investigation.mp3
+26:Metal/Different Way.mp3
+27:Metal/Earth Crisis.mp3
+28:Metal/Rotten Inside.mp3
+29:Metal/Edge of Design.mp3
+30:Metal/The Lake.mp3
+31:Metal/Until my Last Breath.mp3
+32:Metal/Domination Through Amplification.mp3
+33:Metal/Raise the Dead.mp3
+34:Metal/Death Assembly.mp3
+35:Metal/Shrouded in Darkness.mp3
+36:Metal/The Angel's Fall.mp3
+37:Metal/The Ambassador of Death.mp3
+38:Metal/Go to Hell.mp3
+39:Metal/Overcome.mp3
+40:Metal/Selenium Forest.mp3
+41:Metal/Raining Blood.mp3
+42:Metal/Infantry.mp3
+43:Metal/Lobotomy.mp3
+44:Metal/The Dog.mp3
+45:Metal/TANK.mp3
+46:Metal/The Pillars of Ruin.mp3
+47:Metal/Predator.mp3
+48:Metal/Brocas Helm/Defender of the Crown/01. Cry of the Banshee.mp3
+49:Metal/Brocas Helm/Defender of the Crown/02. Defender of the Crown.mp3
+50:Metal/Brocas Helm/Defender of the Crown/03. Skullfucker.mp3
+51:Metal/Brocas Helm/Defender of the Crown/04. Drink and Drive.mp3
+52:Metal/Brocas Helm/Defender of the Crown/05. Blood Machine.mp3
+53:Metal/Brocas Helm/Defender of the Crown/06. Preludious.mp3
+54:Metal/Brocas Helm/Defender of the Crown/07. Ghost Story.mp3
+55:Metal/Brocas Helm/Defender of the Crown/08. Helm's Deep.mp3
+56:Metal/Brocas Helm/Defender of the Crown/09. Juggernaut.mp3
+57:Metal/Brocas Helm/Defender of the Crown/10. Time of the Dark.mp3
+58:Metal/Brocas Helm/Defender of the Crown/11. War Toons.mp3
+59:Metal/Brocas Helm/Defender of the Crown/12. Never kissed Goodbye.mp3
+60:Metal/Brocas Helm/Defender of the Crown/13. Persian Gulf.mp3
+61:Metal/Brocas Helm/Defender of the Crown/14. Children of the Nova Dawn.mp3
+62:Metal/Brocas Helm/Defender of the Crown/15. Drink the Blood of the Priest.mp3
+63:Metal/Brocas Helm/Into Battle/01-Brocas Helm-Metallic Fury.mp3
+64:Metal/Brocas Helm/Into Battle/02-Brocas Helm-Into Battle.mp3
+65:Metal/Brocas Helm/Into Battle/03-Brocas Helm-Here to Rock.mp3
+66:Metal/Brocas Helm/Into Battle/04-Brocas Helm-Beneath a Haunted Moon.mp3
+67:Metal/Brocas Helm/Into Battle/05-Brocas Helm-Warriors of the Dark.mp3
+68:Metal/Brocas Helm/Into Battle/06-Brocas Helm-Preludious.mp3
+69:Metal/Brocas Helm/Into Battle/07-Brocas Helm-Ravenwreck.mp3
+70:Metal/Brocas Helm/Into Battle/08-Brocas Helm-Dark Rider.mp3
+71:Metal/Brocas Helm/Into Battle/09-Brocas Helm-Night Siege.mp3
+72:Metal/Brocas Helm/Into Battle/10-Brocas Helm-Into the Ithilstone.mp3
+73:Metal/Cynicism/Clenched Fists/01-159189-Cynicism-A Taste Of Hate.mp3
+74:Metal/Cynicism/Clenched Fists/02-159191-Cynicism-Clenched Fists.mp3
+75:Metal/Cynicism/Clenched Fists/03-159197-Cynicism-Last Sin.mp3
+76:Metal/Cynicism/Clenched Fists/04-159198-Cynicism-Tempest.mp3
+77:Metal/Cynicism/Clenched Fists/05-159199-Cynicism-Unholy Solitude.mp3
+78:Metal/Cynicism/Clenched Fists/06-159200-Cynicism-Inside My Hell.mp3
+79:Metal/Cynicism/Clenched Fists/07-159201-Cynicism-Dark Summit Of Pain.mp3
+80:Metal/Cynicism/Clenched Fists/08-159202-Cynicism-On The Hills.mp3
+81:Metal/Cynicism/Clenched Fists/09-159203-Cynicism-When The Storm Is Near.mp3
+82:Metal/Cynicism/Clenched Fists/11-159206-Cynicism-Conclusion.mp3
+83:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/With Leaden Hooks And Chains.mp3
+84:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/Amour Rides Upon Midnight.mp3
+85:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/At The Behest Of The Sinister Impulse.mp3
+86:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/To Satiate Silence.mp3
+87:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/The Crowning Quietus.mp3
+88:Metal/INCONCESSUS LUX LUCIS/The Crowning Quietus/Fever Upon The Firmament.mp3
+89:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Welcome.mp3
+90:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Escape from SEUM.mp3
+91:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Broken Bridge.mp3
+92:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Riddle.mp3
+93:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Rush.mp3
+94:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Trapped in SEUM.mp3
+95:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Vortex.mp3
+96:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/The Machine.mp3
+97:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Vengeance.mp3
+98:Metal/Ivan Spelljack Jitz/SEUM Soundtrack/Untitled Dance.mp3
+99:Metal/MESTENTERY/Blood Rain/01-162632-MESENTERY-The Game.mp3
+100:Metal/MESTENTERY/Blood Rain/02-162644-MESENTERY-Truth.mp3
+101:Metal/MESTENTERY/Blood Rain/03-162658-MESENTERY-Deepest Fear.mp3
+102:Metal/MESTENTERY/Blood Rain/04-162661-MESENTERY-Ordinary Lies.mp3
+103:Metal/MESTENTERY/Blood Rain/05-162664-MESENTERY-Raise.mp3
+104:Metal/MESTENTERY/Blood Rain/06-162700-MESENTERY-Everlasting Hate.mp3
+105:Metal/MESTENTERY/Blood Rain/07-162706-MESENTERY-Story Of A Witch.mp3
+106:Metal/MESTENTERY/Blood Rain/08-162707-MESENTERY-Soulpain.mp3
+107:Metal/MESTENTERY/Blood Rain/09-162711-MESENTERY-Blood Rain.mp3
+108:Metal/Sergey Golovin/Changes/sergey_golovin-cynical_tesla_fury.mp3
+109:Metal/Sergey Golovin/Changes/sergey_golovin-changes.mp3
+110:Metal/Sergey Golovin/Changes/sergey_golovin-headbreaker.mp3
+111:Metal/Sergey Golovin/Changes/sergey_golovin-chaos_machine.mp3
+112:Metal/Sergey Golovin/Changes/sergey_golovin-lost_voice_(ft._kirill_babiev).mp3
+113:Metal/Sergey Golovin/Changes/sergey_golovin-sea_devil.mp3
+114:Metal/Sergey Golovin/Changes/sergey_golovin-radial_displacement_(ft._fedor_dosumov).mp3
+115:Metal/Sergey Golovin/Changes/sergey_golovin-kaleidoscope.mp3
+116:Metal/Sergey Golovin/Changes/sergey_golovin-goodbye_my_friend.mp3
+117:Metal/Sergey Golovin/Changes/sergey_golovin-one_who_sings_from_afar.mp3
+118:Metal/Sergey Golovin/Sculpture/sergey_golovin-bouncing_ball.mp3
+119:Metal/Sergey Golovin/Sculpture/sergey_golovin-charger.mp3
+120:Metal/Sergey Golovin/Sculpture/sergey_golovin-depth.mp3
+121:Metal/Sergey Golovin/Sculpture/sergey_golovin-lu.mp3
+122:Metal/Sergey Golovin/Sculpture/sergey_golovin-nano_ocean.mp3
+123:Metal/Sergey Golovin/Sculpture/sergey_golovin-rise.mp3
+124:Metal/Sergey Golovin/Sculpture/sergey_golovin-sculpture.mp3
+125:Metal/Sergey Golovin/Sculpture/sergey_golovin-snow_blast.mp3
+126:Metal/Sergey Golovin/Sculpture/sergey_golovin-somnambu.mp3
+127:Metal/Severed Fifth/Denied By Reign/Beating Heart.mp3
+128:Metal/Severed Fifth/Denied By Reign/Take The Test.mp3
+129:Metal/Severed Fifth/Denied By Reign/Dollar Plague.mp3
+130:Metal/Severed Fifth/Denied By Reign/The Lake.mp3
+131:Metal/Severed Fifth/Denied By Reign/Edge Of Design.mp3
+132:Metal/Severed Fifth/Denied By Reign/Kick Back.mp3
+133:Metal/Severed Fifth/Denied By Reign/War.mp3
+134:Metal/Severed Fifth/Denied By Reign/Enslaved By Pain.mp3
+135:Metal/Sirio/Intro.mp3
+136:Metal/Sirio/Witch Hunting.mp3
+137:Metal/Sirio/Wings In The Night.mp3
+138:Metal/Sirio/Dance Of Stars.mp3
+139:Metal/Sirio/Rainy Day.mp3
+140:Metal/StabWounD/Devoured/Devoured.mp3
+141:Metal/StabWounD/I (The Birth of StabWounD)/Shrouded in Darkness.mp3
+142:Metal/StabWounD/I (The Birth of StabWounD)/Feel the StabWounD.mp3
+143:Metal/StabWounD/I (The Birth of StabWounD)/Death Assembly.mp3
+144:Metal/StabWounD/I (The Birth of StabWounD)/Serenity in Pain.mp3
+145:Metal/StabWounD/II/Black Avenger.mp3
+146:Metal/StabWounD/II/Pain Bringer.mp3
+147:Metal/StabWounD/II/Angel of Lust.mp3
+148:Metal/StabWounD/II/Slashed.mp3
+149:Metal/StabWounD/III (Ritual)/Defiler's Overture.mp3
+150:Metal/StabWounD/III (Ritual)/Ritual.mp3
+151:Metal/StabWounD/III (Ritual)/The Mark.mp3
+152:Metal/StabWounD/III (Ritual)/Vicious Shadows.mp3
+153:Metal/StabWounD/III (Ritual)/Brown Plague.mp3
+154:Metal/Summoning/1993 Upon The Viking Stallion (Demo)/01 - The Summoning (Verse III - VI The Infernal Cabbala).mp3
+155:Metal/Summoning/1993 Upon The Viking Stallion (Demo)/02 - Tales From The Northern Forest.mp3
+156:Metal/Summoning/1993 Upon The Viking Stallion (Demo)/03 - Upon The Viking Stallion.mp3
+157:Metal/Summoning/1993 Upon The Viking Stallion (Demo)/04 - Dark Age.mp3
+158:Metal/Summoning/1993 Upon The Viking Stallion (Demo)/05 - In The Name Of The Holy Penis - God.mp3
+159:Metal/Summoning/1994 Anno Mortiri Domini (Demo)/01 The Summoning (Verse III-VI The Infernal Cabbala).MP3
+160:Metal/Summoning/1994 Anno Mortiri Domini (Demo)/02 Tales From The Northern Forest.MP3
+161:Metal/Summoning/1994 Anno Mortiri Domini (Demo)/03 Upon The Viking Stallion.MP3
+162:Metal/Summoning/1994 Anno Mortiri Domini (Demo)/04 Dark Age.MP3
+163:Metal/Summoning/1994 Anno Mortiri Domini (Demo)/05 In The Name Of The Holy Penis - God.MP3
+164:Metal/Summoning/1994 The Urilia Text (Split)/Beyond Bloodred Horizons.mp3
+165:Metal/Summoning/1994 The Urilia Text (Split)/Dragons Of Time.mp3
+166:Metal/Summoning/1995 Lugburz/01 - Grey Heavens.mp3
+167:Metal/Summoning/1995 Lugburz/02 - Beyond Bloodred Horizons.mp3
+168:Metal/Summoning/1995 Lugburz/03 - Flight Of The Nazgul.mp3
+169:Metal/Summoning/1995 Lugburz/04 - Where Winters Forever Cry.mp3
+170:Metal/Summoning/1995 Lugburz/05 - Through The Valley Of The Frozen Kingdom.mp3
+171:Metal/Summoning/1995 Lugburz/06 - Raising With The Battle-Orcs.mp3
+172:Metal/Summoning/1995 Lugburz/07 - Master Of The Old Lure.mp3
+173:Metal/Summoning/1995 Lugburz/08 - Between Light And Darkness.mp3
+174:Metal/Summoning/1995 Lugburz/09 - The Eternal Lands Of Fire.mp3
+175:Metal/Summoning/1995 Lugburz/10 - Dragons Of Time.mp3
+176:Metal/Summoning/1995 Lugburz/11 - Moondance.mp3
+177:Metal/Summoning/1995 Minas Morgul/01 - Soul Wandering.mp3
+178:Metal/Summoning/1995 Minas Morgul/02 - Lugburz.mp3
+179:Metal/Summoning/1995 Minas Morgul/03 - The Passing Of The Grey Company.mp3
+180:Metal/Summoning/1995 Minas Morgul/04 - Morthond.mp3
+181:Metal/Summoning/1995 Minas Morgul/05 - Marching Homewards.mp3
+182:Metal/Summoning/1995 Minas Morgul/06 - Orthanc.mp3
+183:Metal/Summoning/1995 Minas Morgul/07 - Ungolianth.mp3
+184:Metal/Summoning/1995 Minas Morgul/08 - Dagor Bragollach.mp3
+185:Metal/Summoning/1995 Minas Morgul/09 - Through The Forest Of Dol Guldur.mp3
+186:Metal/Summoning/1995 Minas Morgul/10 - The Legend Of The Master-Ring.mp3
+187:Metal/Summoning/1995 Minas Morgul/11 - Dor Daedeloth.mp3
+188:Metal/Summoning/1995 Minas Morgul (Demo)/Dagor Bragollach.mp3
+189:Metal/Summoning/1995 Minas Morgul (Demo)/Morthond.mp3
+190:Metal/Summoning/1995 Minas Morgul (Demo)/Orthanc.mp3
+191:Metal/Summoning/1996 Dol Goldur/01 - Angbands Schmieden.mp3
+192:Metal/Summoning/1996 Dol Goldur/02 - Nightshade Forests.mp3
+193:Metal/Summoning/1996 Dol Goldur/03 - Elfstone.mp3
+194:Metal/Summoning/1996 Dol Goldur/04 - Khazad D�m.mp3
+195:Metal/Summoning/1996 Dol Goldur/05 - K�r.mp3
+196:Metal/Summoning/1996 Dol Goldur/06 - Wyrmvater Glaurung.mp3
+197:Metal/Summoning/1996 Dol Goldur/07 - Unto A Long Glory....mp3
+198:Metal/Summoning/1996 Dol Goldur/08 - Over Old Hills.mp3
+199:Metal/Summoning/1997  Nightshade Forests (EP)/01-  Mirkwood.mp3
+200:Metal/Summoning/1997  Nightshade Forests (EP)/02- Kortirion Among The Trees.mp3
+201:Metal/Summoning/1997  Nightshade Forests (EP)/03 - Flesh And Blood.mp3
+202:Metal/Summoning/1997  Nightshade Forests (EP)/04 - Habbanan Beneath The Stars.mp3
+203:Metal/Summoning/1999 Stronghold/01-Rhine.mp3
+204:Metal/Summoning/1999 Stronghold/02-Long Lost to Where No Pathway Goes.mp3
+205:Metal/Summoning/1999 Stronghold/03-The Glory Disappears.mp3
+206:Metal/Summoning/1999 Stronghold/04-Like Some Snow - White Marble Eyes.mp3
+207:Metal/Summoning/1999 Stronghold/05-Where  Hope And Daylight Die.mp3
+208:Metal/Summoning/1999 Stronghold/06-The Rotting Horse On The deadly Ground.mp3
+209:Metal/Summoning/1999 Stronghold/07-The Shadow Lines Frozen On The Hills.mp3
+210:Metal/Summoning/1999 Stronghold/08-The Lound Music Of The Sky.mp3
+211:Metal/Summoning/1999 Stronghold/09-A Distant Flame Before The sun.mp3
+212:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/01-rem Power is rising.mp3
+213:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/02-South Uman.mp3
+214:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/03-In Halls Beneath The Fells.mp3
+215:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/04-Dur Foes shall Fall.mp3
+216:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/05-The Mountain Rings Return.mp3
+217:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/06-Runes of Power.mp3
+218:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/07-Ushen Gold.mp3
+219:Metal/Summoning/2001 Let Mortal Heroes Sing Your Fame/08-faremell.mp3
+220:Metal/Summoning/2003 Lost Tales (EP)/01 - Arcenstone.mp3
+221:Metal/Summoning/2003 Lost Tales (EP)/02 - Saruman.mp3
+222:Metal/Summoning/2006 Oath Bound/01 - Bauglir.mp3
+223:Metal/Summoning/2006 Oath Bound/02 - Across the Streaming Tide.mp3
+224:Metal/Summoning/2006 Oath Bound/03 - Mirdautas Vras.mp3
+225:Metal/Summoning/2006 Oath Bound/04 - Might And Glory.mp3
+226:Metal/Summoning/2006 Oath Bound/05 - Beleriand.mp3
+227:Metal/Summoning/2006 Oath Bound/06 - Northward.mp3
+228:Metal/Summoning/2006 Oath Bound/07 - Menegroth.mp3
+229:Metal/Summoning/2006 Oath Bound/08 - Land of the Dead.mp3
+230:Metal/Summoning/2013 Of Pale White Morns and Darkened Eves (EP)/Old Mornings Dust (Old Mornings Dawn).mp3
+231:Metal/Summoning/2013 Of Pale White Morns and Darkened Eves (EP)/Redhorn (Caradhras).mp3
+232:Metal/Summoning/2013 Old Mornings Dawn/01. Evernight.mp3
+233:Metal/Summoning/2013 Old Mornings Dawn/02. Flammifer.mp3
+234:Metal/Summoning/2013 Old Mornings Dawn/03. Old Mornings Dawn.mp3
+235:Metal/Summoning/2013 Old Mornings Dawn/04. The White Tower.mp3
+236:Metal/Summoning/2013 Old Mornings Dawn/05. Caradhras.mp3
+237:Metal/Summoning/2013 Old Mornings Dawn/06. Of Pale White Morns and Darkened Eves.mp3
+238:Metal/Summoning/2013 Old Mornings Dawn/07. The Wandering Fire.mp3
+239:Metal/Summoning/2013 Old Mornings Dawn/08. Earthshine.mp3
+240:Metal/XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffX/GORE/Bone Saw.mp3
+241:Metal/XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffX/GORE/Pneumonoultramicroscopicsilicovolcanoconiosis.mp3
+242:Metal/XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffX/GORE/Dicks Out For Harambe.mp3
+243:Metal/XavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffX/GORE/Gore.mp3
+244:Other/Malaxe/Things Have Changed.wav
+245:Other/Malaxe/Red Lights.wav
+246:Other/Malaxe/Stay.wav
+247:Other/Malaxe/Its Quiet Now.wav
+248:Other/Malaxe/The Beating Heart.wav
+249:Other/VA​-​11 HALL​-A Second Round/garoad-a._rene.0.wav
+250:Other/VA​-​11 HALL​-A Second Round/garoad-hopes_and_dreams.mp3
+251:Other/VA​-​11 HALL​-A Second Round/garoad-a_neon_glow_lights_the_way.mp3
+252:Other/VA​-​11 HALL​-A Second Round/garoad-welcome_to_va-11_hall-a.mp3
+253:Other/VA​-​11 HALL​-A Second Round/garoad-every_day_is_night.mp3
+254:Other/VA​-​11 HALL​-A Second Round/garoad-commencing_simulation.mp3
+255:Other/VA​-​11 HALL​-A Second Round/garoad-drive_me_wild.mp3
+256:Other/VA​-​11 HALL​-A Second Round/garoad-good_for_health,_bad_for_education.mp3
+257:Other/VA​-​11 HALL​-A Second Round/garoad-who_was_i?.mp3
+258:Other/VA​-​11 HALL​-A Second Round/garoad-troubling_news.mp3
+259:Other/VA​-​11 HALL​-A Second Round/garoad-a_gaze_that_invited_disaster.mp3
+260:Other/VA​-​11 HALL​-A Second Round/garoad-friendly_conversation.mp3
+261:Other/VA​-​11 HALL​-A Second Round/garoad-you've_got_me.mp3
+262:Other/VA​-​11 HALL​-A Second Round/garoad-better_luck_next_time.mp3
+263:Other/VA​-​11 HALL​-A Second Round/garoad-transition_i.mp3
+264:Other/VA​-​11 HALL​-A Second Round/garoad-umemoto.mp3
+265:Other/VA​-​11 HALL​-A Second Round/garoad-jc_elton's.mp3
+266:Other/VA​-​11 HALL​-A Second Round/garoad-go!_go!_streaming-chan!.mp3
+267:Other/VA​-​11 HALL​-A Second Round/garoad-all_systems,_go!.mp3
+268:Other/VA​-​11 HALL​-A Second Round/garoad-where_do_i_go_from_here?.mp3
+269:Other/VA​-​11 HALL​-A Second Round/garoad-will_you_remember_me?.mp3
+270:Other/VA​-​11 HALL​-A Second Round/garoad-everything_will_be_okay.mp3
+271:Other/VA​-​11 HALL​-A Second Round/garoad-march_of_the_white_knights.mp3
+272:Other/VA​-​11 HALL​-A Second Round/garoad-a._rene.0.flac
+273:Other/VA​-​11 HALL​-A Second Round/garoad-a._rene.0.m4a
+274:Other/VA​-​11 HALL​-A Second Round/garoad-a._rene.0.ogg
+275:Other/VA​-​11 HALL​-A Second Round/garoad-a._rene.mp3
+276:Other/VA​-​11 HALL​-A Second Round/garoad-safe_haven.mp3
+277:Other/VA​-​11 HALL​-A Second Round/garoad-neo_avatar.mp3
+278:Other/VA​-​11 HALL​-A Second Round/garoad-those_who_dwell_in_shadows.mp3
+279:Other/VA​-​11 HALL​-A Second Round/garoad-nighttime_maneuvers.mp3
+280:Other/VA​-​11 HALL​-A Second Round/garoad-a_star_pierces_the_darkness.mp3
+281:Other/VA​-​11 HALL​-A Second Round/garoad-calicomp_1.1_startup.mp3
+282:Other/VA​-​11 HALL​-A Second Round/garoad-calicomp_1.1_shutdown.mp3
+283:Other/VA​-​11 HALL​-A Second Round/garoad-transition_ii.mp3
+284:Other/VA​-​11 HALL​-A Second Round/garoad-your_love_is_a_drug.mp3
+285:Other/VA​-​11 HALL​-A Second Round/garoad-through_the_storm,_we_will_find_a_way.mp3
+286:Other/VA​-​11 HALL​-A Second Round/garoad-synthestitch.mp3
+287:Other/VA​-​11 HALL​-A Second Round/garoad-snowfall.mp3
+288:Other/VA​-​11 HALL​-A Second Round/garoad-the_answer_lies_within.mp3
+289:Other/VA​-​11 HALL​-A Second Round/garoad-dawn_approaches.mp3
+290:Other/VA​-​11 HALL​-A Second Round/garoad-with_renewed_hope,_we_continue_forward.mp3
+291:Other/VA​-​11 HALL​-A Second Round/garoad-last_call.mp3
+292:Other/VA​-​11 HALL​-A Second Round/garoad-reminiscence.mp3
+293:Other/VA​-​11 HALL​-A Second Round/garoad-believe_in_me_who_believes_in_you.mp3
+294:Other/VA​-​11 HALL​-A Second Round/garoad-final_result.mp3
+295:Other/VA​-​11 HALL​-A Second Round/garoad-until_we_meet_again.mp3
+296:Other/VA​-​11 HALL​-A Second Round/garoad-digital_drive.mp3
+297:Rock/Cliffs of Dover.mp3
+298:Rock/Aryan Angel.mp3
+299:Rock/BRAIDURA/Autumn.mp3
+300:Rock/BRAIDURA/Deceiving Light.mp3
+301:Rock/BRAIDURA/Mania.mp3
+302:Rock/BRAIDURA/Neon Highway.mp3
+303:Rock/BRAIDURA/Snowfall.mp3
+304:Rock/BRAIDURA/Stargazing.mp3
+305:Rock/BRAIDURA/Thoughts.mp3
+306:Rock/SOiL/El Chupacabra! (EP)/01 F-Hole.mp3
+307:Rock/SOiL/El Chupacabra! (EP)/02 Broken Wings.mp3
+308:Rock/SOiL/El Chupacabra! (EP)/03 Crucified.mp3
+309:Rock/SOiL/El Chupacabra! (EP)/04 She.mp3
+310:Rock/SOiL/El Chupacabra! (EP)/05 Two Cent Friend.mp3
+311:Rock/SOiL/Picture Perfect/01 Tear It Down.mp3
+312:Rock/SOiL/Picture Perfect/02 [The Lesser Man].mp3
+313:Rock/SOiL/Picture Perfect/03 [Like It Is].mp3
+314:Rock/SOiL/Picture Perfect/04 Picture Perfect.mp3
+315:Rock/SOiL/Picture Perfect/05 Surrounded.mp3
+316:Rock/SOiL/Picture Perfect/06 Wasted.mp3
+317:Rock/SOiL/Picture Perfect/07 Every Moment.mp3
+318:Rock/SOiL/Picture Perfect/08 Anymore.mp3
+319:Rock/SOiL/Picture Perfect/09 Falter.mp3
+320:Rock/SOiL/Picture Perfect/10 Too Far Away.mp3
+321:Rock/SOiL/Picture Perfect/11 Calling Out.mp3
+322:Rock/SOiL/Picture Perfect/12 Temptation.mp3
+323:Rock/SOiL/Picture Perfect/13 Last Wish.mp3
+324:Rock/SOiL/Pride (EP)/01 Pride.mp3
+325:Rock/SOiL/Pride (EP)/02 Cross My Heart.mp3
+326:Rock/SOiL/Pride (EP)/03 Halo(UK Remix).mp3
+327:Rock/SOiL/Redefine/01 Pride.mp3
+328:Rock/SOiL/Redefine/02 [Redefine].mp3
+329:Rock/SOiL/Redefine/03 Can You Heal Me.mp3
+330:Rock/SOiL/Redefine/04 Cross My Heart.mp3
+331:Rock/SOiL/Redefine/05 Suffering.mp3
+332:Rock/SOiL/Redefine/06 Remember.mp3
+333:Rock/SOiL/Redefine/07 Deny Me.mp3
+334:Rock/SOiL/Redefine/08 Something Real.mp3
+335:Rock/SOiL/Redefine/09 Say You Will.mp3
+336:Rock/SOiL/Redefine/10 Love Hate Game.mp3
+337:Rock/SOiL/Redefine/11 Obsession.mp3
+338:Rock/SOiL/Scars/01 Breaking Me Down.mp3
+339:Rock/SOiL/Scars/02 [Halo].mp3
+340:Rock/SOiL/Scars/03 Need to Feel.mp3
+341:Rock/SOiL/Scars/04 Wide Open.mp3
+342:Rock/SOiL/Scars/05 Understanding Me.mp3
+343:Rock/SOiL/Scars/06 My Own.mp3
+344:Rock/SOiL/Scars/07 [Unreal].mp3
+345:Rock/SOiL/Scars/08 Inside.mp3
+346:Rock/SOiL/Scars/09 Two Skins.mp3
+347:Rock/SOiL/Scars/10 The One.mp3
+348:Rock/SOiL/Scars/11 New Faith.mp3
+349:Rock/SOiL/Scars/12 Why.mp3
+350:Rock/SOiL/Scars/13 Black 7.mp3
+351:Rock/SOiL/Soil (EP)/01 Broken Wings.mp3
+352:Rock/SOiL/Soil (EP)/02 No More, No Less.mp3
+353:Rock/SOiL/Soil (EP)/03 She.mp3
+354:Rock/SOiL/Soil (EP)/04 Same Ol' Trip.mp3
+355:Rock/SOiL/Soil (EP)/05 Yellow Lines.mp3
+356:Rock/SOiL/Throttle Junkies/01 Everything.mp3
+357:Rock/SOiL/Throttle Junkies/02 Road to Ruin.mp3
+358:Rock/SOiL/Throttle Junkies/03 Damning Eden.mp3
+359:Rock/SOiL/Throttle Junkies/04 F-Hole.mp3
+360:Rock/SOiL/Throttle Junkies/05 Man I Am.mp3
+361:Rock/SOiL/Throttle Junkies/06 Hello Again.mp3
+362:Rock/SOiL/Throttle Junkies/07 Butterfly.mp3
+363:Rock/SOiL/Throttle Junkies/08 Growing Ways.mp3
+364:Rock/SOiL/Throttle Junkies/09 Stand to Fall.mp3
+365:Rock/SOiL/Throttle Junkies/10 Concrete Slave.mp3
+366:Rock/SOiL/Throttle Junkies/11 She.mp3
+367:Rock/SOiL/Throttle Junkies/12 Crucified.mp3
+368:Rock/SOiL/Throttle Junkies/13 Shining Man.mp3
+369:Rock/SOiL/Throttle Junkies/14 Damning Eden (Acoustic).mp3
+370:Rock/SOiL/True Self/01 Fight For Life.mp3
+371:Rock/SOiL/True Self/02 [Give It Up].mp3
+372:Rock/SOiL/True Self/03 [Pick Me Up].mp3
+373:Rock/SOiL/True Self/04 [The Last Chance].mp3
+374:Rock/SOiL/True Self/05 [True Self].mp3
+375:Rock/SOiL/True Self/06 Hear Me.mp3
+376:Rock/SOiL/True Self/07 Forever Dead.mp3
+377:Rock/SOiL/True Self/08 Let Go.mp3
+378:Rock/SOiL/True Self/09 Until It's Over.mp3
+379:Rock/SOiL/True Self/10 Jaded.mp3
+380:Rock/SOiL/True Self/11 Threw It Away.mp3
+381:Rock/SOiL/True Self/12 One Last Song.mp3
+382:Rock/This Will Destory You/ST/A Three Legged Workhorse.mp3
+383:Rock/This Will Destory You/ST/Villa Del Refugio.mp3
+384:Rock/This Will Destory You/ST/Threads.mp3
+385:Rock/This Will Destory You/ST/Leather Wings.mp3
+386:Rock/This Will Destory You/ST/The Mighty Rio Grande.mp3
+387:Rock/This Will Destory You/ST/They Move On Tracks Of Never-Ending Light.mp3
+388:Rock/This Will Destory You/ST/Burial On The Presidio Banks.mp3
+389:Rock/WASD/C​:​\​WINDOWS\​MEDIA/canyon.mid.mp3
+390:Rock/WASD/C​:​\​WINDOWS\​MEDIA/passport.mid.mp3
+391:Rock/WASD/C​:​\​WINDOWS\​MEDIA/town.mid.mp3
+392:Rock/WASD/C​:​\​WINDOWS\​MEDIA/onestop.mid.mp3
+393:Rock/WASD/C​:​\​WINDOWS\​MEDIA/future_retro.avi.mp3
+playlist_end
